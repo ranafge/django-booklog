@@ -1,2 +1,2 @@
 # djangobin
-Django project overiq
+Django project form overiq
